@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^5.2.1",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  
+  "scripts": {
+    "start": "node route_post.js",
+    "dev": "nodemon app.js"
+  }
+
+}
